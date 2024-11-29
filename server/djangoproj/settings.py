@@ -97,7 +97,7 @@ myValidator += 'auth.password_validation.UserAttributeSimilarityValidator'
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME':
-         myValidator,
+        myValidator,
     },
     {
         'NAME':
